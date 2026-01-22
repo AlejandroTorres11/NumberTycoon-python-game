@@ -1,0 +1,15 @@
+/saves/
+pycache/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.DS_Store
+/logs/
+
+/build/
+/.venv_build/
+
+# Virtualenvs used by contributors
+.venv*/
